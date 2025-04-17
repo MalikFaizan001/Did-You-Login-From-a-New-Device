@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    font-family: cursive;
+    height: 1000px;
+}
+.Header {
+    background-color: #1A1C55;
+    width: 100%;
+    max-width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Logo {
+    width: 150px;
+    max-width:100% ;
+}
+.Header :hover{
+    transform: scale(1.1);
+    transition: 70ms;
+}
+.Line {
+    color: #04E2AF;
+    border: 1.5px solid ;
+    margin: 0;    
+}
+.Warning-Sign-Div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-right:10px ;
+}
+.Warning-Sign-Div :hover {
+    transform: scale(1.1);
+    transition: 70ms;
+}
+.Alert {
+    color:#D93C3C;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+}
+.Link-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Link-Font {
+    color: white;
+    background-color: #1A1C55;
+    width: 50%;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.Link-1 :hover {
+    transform: scale(1.09);
+    transition: 100ms;
+    background-color: #04E2AF;
+}
+.Login-Details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Detail-1 {
+    font-size: 18px;
+    font-weight: 400;
+    color: #868686;
+    text-align: center;
+    margin-top: 30px;
+}
+.Login-Details-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Detail-2 {
+    font-size: 17px;
+    font-weight: 400;
+    color: #868686;
+    text-align: center;
+}
+.span-1 {
+    color: #04E2AF;
+    font-weight: 700;
+}
+.Link-Font-2 {
+    color: white;
+    background-color: #1A1C55;
+    padding: 8px;
+    width: 30%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.Link-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Link-2 :hover {
+    transform: scale(1.09);
+    transition: 100ms;
+    background-color: #04E2AF;
+}
+.line-2 {
+    width: 90%;
+    color: #DBDBDB;
+    
+}
+.Taking-Action {
+    color: #868686;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.links-color {
+    color: #176EF0;
+}
+.links-color :hover {
+    color :#1A1C55;
+}
+.Social-Media-Platforms {
+    font-size: 16px;
+    font-weight: 400;
+    color: #A8A8A8;
+    display: flex;
+    justify-content: space-around;
+    margin-left:-14% ;
+    margin-right:-14%;
+}
+.span-2 {
+    color: #04E2AF;
+    font-weight: 600;
+}
